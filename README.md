@@ -1,9 +1,9 @@
 # COVID19Py
 
-# Installation
+## Installation
 Install the package COVID19Py by simple run:
 '<pip install COVID19Py>'
 
-# Package
+## Package
 [COVID19Py!](https://pypi.org/project/COVID19Py/)
 
